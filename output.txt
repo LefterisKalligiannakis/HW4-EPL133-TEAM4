@@ -1,0 +1,93 @@
+feline
+  (a) cat
+  (b) dog
+  (c) horse
+ Given answer: dog Correct answer: cat
+
+enigma
+  (a) riddle
+  (b) mystery
+  (c) cipher
+ Given answer: mystery Correct answer: riddle
+
+serene
+  (a) tranquil
+  (b) peaceful
+  (c) calm
+ Given answer: calm Correct answer: tranquil
+
+inquisitive
+  (a) curious
+  (b) investigate
+  (c) nosy
+ Given answer: curious Correct answer: curious
+
+ebullient
+  (a) enthusiastic
+  (b) energetic
+  (c) radiant
+ Given answer: enthusiastic Correct answer: enthusiastic
+
+ambivalent
+  (a) indecisive
+  (b) hesistant
+  (c) uncertain
+ Given answer: uncertain Correct answer: indecisive
+
+melancholy
+  (a) gloomy
+  (b) sorrowful
+  (c) mournful
+ Given answer: gloomy Correct answer: gloomy
+
+resilient
+  (a) tough
+  (b) durable
+  (c) tenacious
+ Given answer: tough Correct answer: tough
+
+pristine
+  (a) immaculate
+  (b) pure
+  (c) untarnished
+ Given answer: pure Correct answer: immaculate
+
+pensive
+  (a) thoughtful
+  (b) contemplative
+  (c) reflective
+ Given answer: thoughtful Correct answer: thoughtful
+
+pernicious
+  (a) harmful
+  (b) destructive
+  (c) toxic
+ Given answer: harmful Correct answer: harmful
+
+eclectic
+  (a) siverse
+  (b) varied
+  (c) heterogeneous
+ Given answer: varied Correct answer: siverse
+
+altruistic
+  (a) selfless
+  (b) charitable
+  (c) philanthropic
+ Given answer: selfless Correct answer: selfless
+
+complacent
+  (a) content
+  (b) satisfied
+  (c) smug
+ Given answer: content Correct answer: content
+
+ephemeral
+  (a) fleeting
+  (b) transitory
+  (c) brief
+ Given answer: brief Correct answer: fleeting
+
+
+
+53.333333333333336% correct
